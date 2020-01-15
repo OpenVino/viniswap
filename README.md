@@ -1,5 +1,6 @@
 # Readme viniswap ![language](https://img.shields.io/badge/language-javascript-blue.svg)
-DEMO: http://viniswap.costaflores.com
+
+http://viniswap.costaflores.com
 
 > viniswap is a wine exchange
 
